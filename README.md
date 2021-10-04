@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to improve my technical skills
 - 👯 I’m looking to collaborate on Open-Source Project Based on C/C++/Java.
 - 🤔 I’m looking for help with Java Web Application Development.
-- 💬 Ask me about C/C++ Data Structure , Database , Linux.
+- 💬 Ask me about C/Java Data Structure , Database , Linux.
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-rockharshitmaurya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chand567khan@gmail.com)](mailto:rockharshitmaurya@gmail.com)
 - 🔭 Coding Profiles : 
 [<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="80px">](https://leetcode.com/HarshitMaurya/) 
