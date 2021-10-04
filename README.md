@@ -36,7 +36,7 @@
  ![Github Followers](https://img.shields.io/github/followers/rockharshitmaurya?style=social) 
  [![Linkedin Badge](https://img.shields.io/badge/-HarshitMaurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitmaurya/)](https://www.linkedin.com/in/harshitmaurya/) 
  [![Gmail Badge](https://img.shields.io/badge/-rockharshitmaurya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rockharshitmaurya@gmail.com)](mailto:rockharshitmaurya@gmail.com)
- [![Instagram Badge](https://img.shields.io/badge/-sudo_demon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harshit__maury/)](https://www.instagram.com/harshit__maury/)
+ [![Instagram Badge](https://img.shields.io/badge/-harshit__maurya-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/harshit__maury/)](https://www.instagram.com/harshit__maury/)
 
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarshitMaurya)
