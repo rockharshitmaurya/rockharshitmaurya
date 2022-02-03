@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rockharshitmaurya?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rockharshitmaurya&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/rockharshitmaurya/rockharshitmaurya/blob/main/F.png?raw=true)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/rockharshitmaurya/rockharshitmaurya/blob/main/F.png)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
