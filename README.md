@@ -3,10 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshitMaurya_?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshitMaurya_)
 [![Linkedin: Tanya](https://img.shields.io/badge/-Harshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitmaurya/)](https://www.linkedin.com/in/harshitmaurya/)
 ![GitHub followers](https://img.shields.io/github/followers/rockharshitmaurya?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=rockharshitmaurya&color=brightgreen">  
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=rockharshitmaurya&color=brightgreen"> 
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/rockharshitmaurya/rockharshitmaurya/blob/main/F.png)
-
+<img src="https://github.com/rockharshitmaurya/rockharshitmaurya/blob/main/F.gif" width="1584" height="396"> 
 
 ## 👨🏻‍💻 &nbsp;About Me
 
