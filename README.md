@@ -18,7 +18,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/harshitmaurya/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/harshitmaurya/"><img align="left" width="150" height="146" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"></a>
 - Struggling on <a href="https://www.leetcode.com/HarshitMaurya/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/rockharshitmaurya/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/harshitmaurya/">LinkedIn</a> 😇
