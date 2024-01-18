@@ -25,7 +25,8 @@
 
 **Languages and Frameworks:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/java-black?logo=Java&style=social)&nbsp;&nbsp;
+![Springboot](https://img.shields.io/badge/SpringBoot-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest.js-black?logo=nestjs&style=social)&nbsp;&nbsp;
