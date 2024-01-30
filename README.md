@@ -12,7 +12,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I'm currently studying Computer Science Engineering at Galgotias University, Greater Noida.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
+💡 &nbsp;Some technologies I enjoy working with include SpringBoot, NodeJS, ExpressJS and ReactJS.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at rockharshitmaurya@gmail.com! I'll try to respond as soon as I can.
 
