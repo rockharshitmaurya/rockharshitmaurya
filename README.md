@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rockharshitmaurya?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rockharshitmaurya&color=brightgreen"> 
 
-<img src="https://github.com/rockharshitmaurya/rockharshitmaurya/blob/main/F.gif" width="1000" height="260"> 
+![gitartwork](gitartwork.svg)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
