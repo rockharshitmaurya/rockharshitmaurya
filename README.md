@@ -29,6 +29,8 @@
 
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&style=social)&nbsp;&nbsp;
 ![Springboot](https://img.shields.io/badge/SpringBoot-black?logo=spring&style=social)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&style=social)&nbsp;&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?logo=hibernate&style=social)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
