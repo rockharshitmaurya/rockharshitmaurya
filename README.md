@@ -11,8 +11,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at Galgotias University, Greater Noida.\
-🛠️ &nbsp;Currently crafting software solutions as a Java Backend Developer, Utilizing the capabilities of SpringBoot, Spring Framework, and Hibernate JPA.\
+💼 &nbsp;I’m a Software Developer at Extramarks Education with a B.Tech in Computer Science from Galgotias University and a Diploma from Maharishi University.\
+🛠️ &nbsp;My expertise lies in Java backend development with technologies like Spring Boot, Hibernate, Redis, and Kafka.\
 💡 &nbsp;Some technologies I enjoy working with include NodeJS, ExpressJS and ReactJS.\
 ✉️ &nbsp;You can shoot me an email at harshitmaurya.cse@gmail.com! I'll try to respond as soon as I can.
 
