@@ -13,8 +13,7 @@
 
 💼 &nbsp;I’m a Software Developer at Extramarks Education with a B.Tech in Computer Science from Galgotias University and a Diploma from Maharishi University.\
 🛠️ &nbsp;My expertise lies in Java backend development with technologies like Spring Boot, Hibernate, Redis, and Kafka.\
-💡 &nbsp;Some technologies I enjoy working with include NodeJS, ExpressJS and ReactJS.\
-✉️ &nbsp;You can shoot me an email at harshitmaurya.cse@gmail.com! I'll try to respond as soon as I can.
+💡 &nbsp;Some technologies I enjoy working with include NodeJS, ExpressJS and ReactJS.
 
 
 
